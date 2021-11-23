@@ -1,6 +1,6 @@
 # Intro
 This repository comes along with the "The Autonomous Platform Inertial Dataset" paper by The Hatter Department of Marine Technologies, University of Haifa,Haifa, Israel.\
-you can find it here (to be added when archived)
+You can find it here (to be added when archived)
 
 The link to Google Drive with the data is: https://drive.google.com/drive/folders/1sbuDlklDdCfcQ0Y6brWcfGyv2iaIlCSU?usp=sharing.
 
