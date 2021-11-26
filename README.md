@@ -21,7 +21,8 @@ DJI Matrice 300 RTK \
 Electric 4WD climbing car
 
 # Summary of Collected Datasets
-![plot](./images/table.JPG)
+![Picture2](https://user-images.githubusercontent.com/93155156/143601562-b0227f60-d739-456d-86ae-efa66caabbdd.png)
+
 
 # The Autonomous Navigation and Sensor Fusion Lab
 The Autonomous Navigation and Sensor Fusion Lab (ANSFL) researches questions and challenges in the fields of autonomous navigation, inertial navigation systems, and estimation theory, as well as in related fields. Our research goals are to devise innovative inertial and sensor fusion algorithms, to develop novel inertial navigation system architectures, and to pioneer deep-learning-based navigation approaches.\
