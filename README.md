@@ -1,7 +1,7 @@
 # Introduction
 
 This repository describes and presented the datasets associated with our paper "The Autonomous Platform Inertial Dataset".\
-**Paper**: Available soon.\
+**Paper**: https://ieeexplore.ieee.org/document/9684368\
 **Datasets**: Available soon. \
 **Video**: Available soon.
 
