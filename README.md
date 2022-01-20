@@ -38,8 +38,8 @@ All datasets on this page are published under the [Creative Commons Attribution 
   author={Shurin, Artur and Saraev, Alex and Yona, Mor and Gutnik, Yivgeni and Faber, Sharon and Etzion, Aviad and Klein, Itzik}, \
   journal={IEEE Access}, \
   title={The Autonomous Platforms Inertial Dataset}, \ 
-  year={2022}, \
-  pages={1-1}, \
+  year={2022}, \ 
+  pages={1-1}, \ 
   doi={10.1109/ACCESS.2022.3144076}}
   
 
