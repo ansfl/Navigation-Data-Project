@@ -29,3 +29,17 @@ The Autonomous Navigation and Sensor Fusion Lab (ANSFL) researches questions and
 **Lab website**:  http://marsci.haifa.ac.il/labs/ansfl/ 
 ![Picture1](https://user-images.githubusercontent.com/93155156/143600162-787b7824-a863-46e2-ac19-ad6292a7c006.png)
 
+# License
+All datasets on this page are published under the [Creative Commons Attribution Version 4 License](https://creativecommons.org/licenses/by/4.0/legalcode)
+
+# Cite Us
+
+@ARTICLE{9684368,
+  author={Shurin, Artur and Saraev, Alex and Yona, Mor and Gutnik, Yivgeni and Faber, Sharon and Etzion, Aviad and Klein, Itzik},
+  journal={IEEE Access}, 
+  title={The Autonomous Platforms Inertial Dataset}, 
+  year={2022},
+  pages={1-1},
+  doi={10.1109/ACCESS.2022.3144076}}
+  
+
