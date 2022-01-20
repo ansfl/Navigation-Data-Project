@@ -39,7 +39,6 @@ All datasets on this page are published under the [Creative Commons Attribution 
   journal={IEEE Access}, \
   title={The Autonomous Platforms Inertial Dataset}, \
   year={2022}, \
-  pages={1-1}, \ 
   doi={10.1109/ACCESS.2022.3144076}}
   
 
