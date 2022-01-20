@@ -25,7 +25,7 @@ Electric 4WD climbing car
 
 
 # The Autonomous Navigation and Sensor Fusion Lab
-The Autonomous Navigation and Sensor Fusion Lab (ANSFL) researches questions and challenges in the fields of autonomous navigation, inertial navigation systems, and estimation theory, as well as in related fields. Our research goals are to devise innovative inertial and sensor fusion algorithms, to develop novel inertial navigation system architectures, and to pioneer deep-learning-based navigation approaches.\
+The Autonomous Navigation and Sensor Fusion Lab (ANSFL) researches questions and challenges in the fields of autonomous navigation, inertial navigation systems, and estimation theory, as well as in related fields. Our research goals are to derive innovative inertial and sensor fusion algorithms, to develop novel inertial navigation system architectures, and to pioneer deep-learning-based navigation approaches.\
 **Lab website**:  http://marsci.haifa.ac.il/labs/ansfl/ 
 ![Picture1](https://user-images.githubusercontent.com/93155156/143600162-787b7824-a863-46e2-ac19-ad6292a7c006.png)
 
