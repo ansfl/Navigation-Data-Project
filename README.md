@@ -4,8 +4,8 @@ This repository describes the datasets associated with our paper "The Autonomous
 **Paper**: https://ieeexplore.ieee.org/document/9684368 \
 **Datasets**: https://drive.google.com/drive/folders/1sbuDlklDdCfcQ0Y6brWcfGyv2iaIlCSU \
 **AUV Video**: https://youtu.be/eYm7hBtCGOQ \
-**Quadrotor**: https://youtu.be/aHmR-gwL3R4 \
-**MGV**: https://youtu.be/EU95BGAZU_o \
+**Quadrotor Video**: https://youtu.be/aHmR-gwL3R4 \
+**MGV Video**: https://youtu.be/EU95BGAZU_o 
 
 # The Autonomous Platform Inertial Dataset
 One of the critical tasks required for fully autonomous functionality is the ability to achieve an accurate navigation solution; that is, to determine the platform position, velocity, and orientation. Various sensors, depending on the vehicle environment (air, sea, or land), are employed to achieve this goal. In parallel to the development of novel navigation and sensor fusion algorithms, machine-learning based algorithms are penetrating into the navigation and sensor fusion fields. An excellent example for this trend is pedestrian dead reckoning, used for indoor navigation, where both classical and machine learning approaches are used to improve the navigation accuracy. To facilitate machine learning algorithms’ derivation and validation for autonomous platforms, a huge quantity of recorded sensor data is needed.
