@@ -45,12 +45,12 @@ All datasets on this page are published under the [Creative Commons Attribution 
   
 
 # Papers
-**Quadrotor Dataset**: \
-1. Or B., Bobrovsky B.-Z. and Klein I., Kalman Filtering with Adaptive Step Size Using a Covariance based Criterion , IEEE Transactions on Instrumentation and Measurement, Vol. 70, pp. 1-10,  2021. [Link](https://ieeexplore.ieee.org/document/9366835) \
-2. Shurin A. and Klein I., QDR: A Quadrotor Dead Reckoning Framework, in IEEE Access, vol. 8, pp. 204433-204440, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9256293) \
+**Quadrotor Dataset**: 
+1. Or B., Bobrovsky B.-Z. and Klein I., Kalman Filtering with Adaptive Step Size Using a Covariance based Criterion , IEEE Transactions on Instrumentation and Measurement, Vol. 70, pp. 1-10,  2021. [Link](https://ieeexplore.ieee.org/document/9366835) 
+2. Shurin A. and Klein I., QDR: A Quadrotor Dead Reckoning Framework, in IEEE Access, vol. 8, pp. 204433-204440, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9256293) 
 
-**Alice Dataset**: \
-1. Klein I. and Lipman Y., Continuous INS/DVL Fusion in Situations of DVL Outages, IEEE OES AUV2020, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9267945) \
+**Alice Dataset**: 
+1. Klein I. and Lipman Y., Continuous INS/DVL Fusion in Situations of DVL Outages, IEEE OES AUV2020, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9267945) 
 
-**Snapir Dataset**: \
-1. Yona M. and Klein I.,  Compensating for Partial Doppler Velocity Log Outages by using Deep-Learning Approaches, IEEE International Symposium on Robotic and Sensors Environments (ROSE 2021), October 28-29, 2021. [Link](https://ieeexplore.ieee.org/document/9611779) \
+**Snapir Dataset**: 
+1. Yona M. and Klein I.,  Compensating for Partial Doppler Velocity Log Outages by using Deep-Learning Approaches, IEEE International Symposium on Robotic and Sensors Environments (ROSE 2021), October 28-29, 2021. [Link](https://ieeexplore.ieee.org/document/9611779) 
